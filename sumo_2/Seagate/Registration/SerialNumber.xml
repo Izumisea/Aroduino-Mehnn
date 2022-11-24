@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<REGISTER_DRIVE_INFOS>
+<VERSION>3.0</VERSION>
+    <DRIVEINFO>
+        <SERIAL_NUM>NA9K71G8</SERIAL_NUM>
+        <SETUP_URL>https://www.seagate.com/register-backupplus</SETUP_URL>
+        <FORMAT>NTFS</FORMAT>
+        <PRODUCT>STDR1000301</PRODUCT>
+        <COLOR>SL</COLOR>
+        <ID>a85bce3783275c6e26c60b52</ID>
+    </DRIVEINFO>
+</REGISTER_DRIVE_INFOS>
